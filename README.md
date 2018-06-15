@@ -1,0 +1,2 @@
+# SignalRChatNetCore
+Poc purposes
